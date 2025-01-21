@@ -1,5 +1,5 @@
 # JetBack
-Restore the jetpack to its former glory after the Lethal Company public beta nerfed it
+Restore the Lethal Company jetpack functionality (speed, acceleration, relative fuel consumption) to its former glory after a recent nerf in the public beta
 
 To apply this mod:
 1) Set up BepInEx on your Lethal Company installation using their instructions
